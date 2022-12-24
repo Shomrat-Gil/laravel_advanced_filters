@@ -8,7 +8,6 @@ use RuntimeException;
 
 /**
  * This Trait adds filter scope to the model
- * Note: if your model is "extends QMBaseModel" then it's already registered on QMBaseModel.
  * ****
  * The first step is to enable the filters on the model
  * protected $whitelistFilters = ['fooFilter','booFilter'];
