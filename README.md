@@ -1,8 +1,7 @@
 # Advanced Filters for Laravel
 ## _Advanced Filters for Laravel Model using Pipeline_
 
- 
- ### Pipeline Ref: https://laravel.com/api/9.x/Illuminate/Pipeline/Pipeline.html
+ ### You can learn more about Laravel Pipeline [here](https://laravel.com/api/9.x/Illuminate/Pipeline/Pipeline.html)
 
   
 **This Trait adds filter scope to the model**
