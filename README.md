@@ -6,6 +6,7 @@
 
   
 **This Trait adds filter scope to the model**
+
 *Note: if your model is "extends QMBaseModel" then it's already registered on QMBaseModel.*
 
 ## Create Filter with no params:
