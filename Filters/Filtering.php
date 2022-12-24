@@ -54,7 +54,7 @@ use RuntimeException;
  * {
  *      public function handle($query, $next, ...$args)
  *      {
- *          $query->where('column', $args[0])->where('field', $args[0]);
+ *          $query->where('column', $args[0])->where('field', $args[1]);
  *          return $next($query);
  *      }
  * }
